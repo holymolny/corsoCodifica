@@ -1,0 +1,88 @@
+<!--codifica 3000 caratteri-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE   SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="it">
+<!--FILEDESC-->
+    <fileDesc>
+        <!--TITLESTMT-->
+        <titleStmt>
+            <title level="m" type ="main">Cappuccetto Rosso, edizione digitale</title>
+            <respStmt>
+                <resp>Conversione TEI P5 a cura di:</resp>
+                <persName n="editors">
+                    <forename>Mihnea</forename>
+                    <forename>Sever</forename>
+                    <surname>Molnar</surname>
+                </persName>
+            </respStmt>
+        </titleStmt>
+            <!--EDITIONSTMT-->
+        <editionStmt>
+            <edition>
+                Edizione creata da <affiliation>studenti della facoltà di <orgName>Informatica Umanistica dell'Università</orgName> di 
+                <placeName><settlement>Pisa</settlement></placeName></affiliation>
+            </edition>
+        </editionStmt>       
+        <!--PUBBLICATIONSTMT-->
+        <publicationStmt>
+            <authority>Università di Pisa</authority>
+            <pubPlace>Pisa</pubPlace> 
+            <date>2023</date>
+            <availability status="restricted"><ab>Riutilizzabile previa autorizzazione del proprietario della pubblicazione</ab></availability>
+        </publicationStmt>
+        <!--SOURCEDESC-->
+        <sourceDesc>
+            <bibl>
+                <title>Cappuccetto Rosso</title>
+                <author>
+                    <persName>
+                        <surname>Grimm</surname>
+                    </persName>          
+                </author>
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div n="storia4" type="chapter">
+        <head>Cappuccetto Rosso</head>
+        <p xml:id = "paragrafo1">
+            <lb n="1">C'era una volta una dolce bimbetta; solo a vederla le volevan tutti bene, e specialmente la nonna che non sapeva più che cosa regalarle.</lb>
+            <lb n="2">Una volta le regalò un cappuccetto di velluto rosso, e poiché‚ le donava tanto, ed ella non voleva portare altro, la chiamarono sempre <name>Cappuccetto Rosso</name>.</lb>
+            <lb n="3">Un giorno sua madre le disse:</lb> 
+            <lb n="4">Vieni, <name>Cappuccetto Rosso</name>, eccoti un pezzo di focaccia e una bottiglia di vino, portali alla nonna; è debole e malata e si ristorerà.</lb>
+            <lb n="5">Sii gentile, salutala per me, e va' da brava senza uscire di strada, se no cadi, rompi la bottiglia e la nonna resta a mani vuote."</lb>
+        </p>
+        <p xml:id = "paragrafo2">
+            <lb n="6"><q>"Sì, farò tutto per bene,"</q> promise <name>Cappuccetto Rosso</name> alla mamma, e le diede la mano. Ma la nonna abitava fuori, nel bosco, a una mezz'ora dal villaggio.</lb>
+            <lb n="7">Quando <name>Cappuccetto Rosso</name> giunse nel bosco, incontrò il lupo, ma non sapeva che fosse una bestia tanto cattiva e non ebbe paura. <q>"Buon giorno, <name>Cappuccetto Rosso</name>,"</q> disse questo.</lb>
+            <lb n="8">Grazie, lupo." - <q>"Dove vai così presto, <name>Cappuccetto Rosso</name>?"</q> -<q>"Dalla nonna."</q></lb>
+            <lb n="9">- <q>"Che cos'hai sotto il grembiule?"</q> - <q>"Vino e focaccia per la nonna debole e vecchia; ieri abbiamo cotto il pane, così la rinforzerà!"</q></lb>
+            <lb n="10">- <q>"Dove abita la tua nonna, <name>Cappuccetto Rosso</name>?"</q> - <q>"A un buon quarto d'ora da qui, nel bosco, sotto le tre grosse querce; là c'è la sua casa, è sotto la macchia di noccioli, lo saprai già,"</q> disse <name>Cappuccetto Rosso</name>.</lb>
+            <lb n="11"> Il lupo pensò fra s': Questa bimba tenerella è un buon boccone prelibato per te, devi far in modo di acchiapparla. Fece un pezzetto di strada con <name>Cappuccetto Rosso</name>, poi disse:</lb>
+            <lb n="12">Guarda un po' quanti bei fiori ci sono nel bosco, <name>Cappuccetto Rosso</name>; perché‚ non ti guardi attorno?</lb>
+            <lb n="13">Credo che tu non senta neppure come cantano dolcemente gli uccellini! Te ne stai tutta seria come se andassi a scuola, ed è così allegro nel bosco!"</lb>
+        </p>
+        <p xml:id="paragrafo3">
+            <lb n="14"><name>Cappuccetto Rosso</name> alzò gli occhi e quando vide i raggi del sole filtrare attraverso gli alberi, e tutto intorno pieno di bei fiori, pensò: Se porto alla nonna un mazzo di fiori, le farà piacere;</lb>
+            <lb n="15">è così presto che arrivo ancora in tempo.</lb>
+            <lb n="16">E corse nel bosco in cerca di fiori.</lb>
+            <lb n="17">E quando ne aveva colto uno, credeva che più in là ce ne fosse uno ancora più bello, correva lì e così si addentrava sempre più nel bosco.</lb>
+            <lb n="18">Il lupo invece andò dritto alla casa della nonna e bussò alla porta.</lb>
+            <lb n="19"><q>"Chi è?"</q> - <q>"<name>Cappuccetto Rosso</name>, ti porto vino e focaccia; aprimi."</q></lb>
+            <lb n="20">- <q>"Non hai che da alzare il saliscendi," gridò la nonna, "io sono troppo debole e non posso alzarmi."</q></lb>
+            <lb n="21">Il lupo alzò il saliscendi, entrò, e senza dir motto andò dritto al letto della nonna e la inghiottì. </lb>
+            <lb n="22">Poi indossò i suoi vestiti e la cuffia, si coricò nel letto, e tirò le cortine.</lb>
+        </p>
+        <p xml:id="paragrafo4">
+            <lb n="23">Ma <name>Cappuccetto Rosso</name> aveva girato in cerca di fiori, e quando ne ebbe raccolti tanti che più non ne poteva portare, si ricordò della nonna e si mise in cammino per andare da lei. </lb>
+            <lb n="24">Quando giunse si meravigliò che la porta fosse spalancata, ed entrando nella stanza ebbe un'impressione così strana che pensò: <q>"Oh, Dio mio, che paura oggi! e dire che di solito sto così volentieri con la nonna!"</q> </lb>
+            <lb n="25">Allora si avvicinò al letto e scostò le cortine: la nonna era coricata con la cuffia abbassata sulla faccia, e aveva un aspetto strano. </lb>
+            <lb n="26"><q>"Oh, nonna, che orecchie grandi!"</q> - <q>"Per sentirti meglio."</q> - <q>"Oh, nonna, che occhi grossi!"</q> - <q>"Per vederti meglio."</q> </lb>
+            <lb n="27">- <q>"Oh, nonna, che mani grandi!"</q> - <q>"Per afferrarti meglio."</q> - <q>"Ma, nonna, che bocca spaventosa!"</q> - <q>"Per divorarti meglio!"</q> E come ebbe detto queste parole, il lupo balzò dal letto e ingoiò la povera <name>Cappuccetto Rosso</name>.</lb>
+        </p>
+    </body>
+</text>
+</TEI>

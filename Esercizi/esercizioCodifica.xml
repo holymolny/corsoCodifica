@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Fatto da: Mihnea Sever Molnar
+    Corso codifica di testi a.a. 2022/2023
+-->
+<TEI>
+    <teiHeader></teiHeader>
+    <text>
+        <body>
+            <pb n="3"/>
+            <lb n="1"/><date when="1920-04-25">25 Aprile 1920</date> - <date when="1940-07-29">29 Luglio 1940</date> - Vent'anni:
+            <lb n="2"/>afferma il <choice><sic>lumifare</sic><corr>luminare</corr></choice> della vita - ma breve e lumino=
+            <lb break="no" n="3"/>so veramente come dice il ricordo marmoreo
+            <lb n="4"/><add place="above"><unclear reason="illegible">renne</unclear> <gap reason="illegible"> di <gap reason="illegible"> che si svolgono tra casa e scuola,</add>
+            <lb n="5"/>promessa, speranza, <unclear reason="illegible">assazio</unclear>. <spazio> Concedete a che
+            <lb n="6"/><add place="above"> a fermarsi. <choice><sic>e</sic><corr>E</corr></choice> lo sbocciare a <choice><sic>un</sic><corr>un'</corr></choice> anima eletta, di un'intelligenza
+            <lb n="7"/>L'ha conosciuto nella prima infanzia, di <gap reason="illegible"/>=
+            <lb n="8"/><add place="above"eccezionale:></add>
+            <lb n="9"/>se anche i ricordi di quei primi lumi, <del rend="overwrite"><gap quantity="2" unit="chars" reason="illegible"/></del>felici.
+            <lb n="10"/><del rend="overstrike">quando si apriva giocondamente alla vita</del>
+        </body>
+    </text>
+</TEI>

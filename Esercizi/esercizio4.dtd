@@ -1,0 +1,14 @@
+<!ELEMENT TEI (header, facsimile?, text+)>
+
+<!ELEMENT header (title, author, date)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+
+<!ELEMENT facsimile (graphic)>
+<!ELEMENT graphic EMPTY>
+<!ATTLIST graphic url CDATA #REQUIRED>
+
+<!ELEMENT text (body+)>
+<!ELEMENT body (p+)>
+<!ELEMENT p (#PCDATA)>
